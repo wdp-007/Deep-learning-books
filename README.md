@@ -89,5 +89,10 @@
 1. [refresher-algebra-calculus.pdf](cheatsheets/refresher-algebra-calculus.pdf)
 1. [refresher-probabilities-statistics.pdf](cheatsheets/refresher-probabilities-statistics.pdf)
 1. [super-cheatsheet-machine-learning.pdf](cheatsheets/super-cheatsheet-machine-learning.pdf)
+## Download Mirrors
+* [Dropbox镜像](https://www.dropbox.com/sh/x25apu3vpxfry3c/AABGDLqTTkMkPuey_boL56dma?dl=0)
+
+* [百度云镜像](https://pan.baidu.com/s/1Hn9Vu2LvTk-WthQhHtdJUA)（提取码:vy3v）
+
 ## Others
 You are welcome to submit your books by submitting Pull Requests, thx.

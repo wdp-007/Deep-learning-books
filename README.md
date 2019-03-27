@@ -1,4 +1,4 @@
-﻿# Books for Machine Learning, Deep Learning, and related topics
+# Books for Machine Learning, Deep Learning, and related topics
 ## 1. Machine Leaning and Deep Learning
 1. [A First Course in Machine Learning-2012.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/A%20First%20Course%20in%20Machine%20Learning-2012.pdf)
 1. [Building Machine Learning Systems with Python-2nd Edition-2015.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Building%20Machine%20Learning%20Systems%20with%20Python-2nd%20Edition-2015.pdf)
@@ -58,6 +58,10 @@
 1. [MIT18_657_Mathematics of Machine Learning-2015.pdf](3.%20Math%20Books/MIT18_657_Mathematics%20of%20Machine%20Learning-2015.pdf)
 1. [The Matrix Cookbook-2012.pdf](3.%20Math%20Books/The%20Matrix%20Cookbook-2012.pdf)
 1. [贝叶斯网引论-张连文-2006.pdf](3.%20Math%20Books/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BD%91%E5%BC%95%E8%AE%BA-%E5%BC%A0%E8%BF%9E%E6%96%87-2006.pdf)
+1. [高等代数学习指导书.丘维声.上册-2005.pdf](3.%20Math%20Books/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%AF%BC%E4%B9%A6.%E4%B8%98%E7%BB%B4%E5%A3%B0.%E4%B8%8A%E5%86%8C-2005.pdf)
+1. [高等代数学习指导书.丘维声·下册-2009.pdf](3.%20Math%20Books/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%AF%BC%E4%B9%A6.%E4%B8%98%E7%BB%B4%E5%A3%B0%C2%B7%E4%B8%8B%E5%86%8C-2009.pdf)
+1. [高等代数（上）丘维声-2010.pdf](3.%20Math%20Books/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%EF%BC%88%E4%B8%8A%EF%BC%89%E4%B8%98%E7%BB%B4%E5%A3%B0-2010.pdf)
+1. [高等代数（下）丘维声-2010.pdf](3.%20Math%20Books/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%EF%BC%88%E4%B8%8B%EF%BC%89%E4%B8%98%E7%BB%B4%E5%A3%B0-2010.pdf)
 ## 4. NLP Books
 1. [Applied Text Analysis with Python-2016.pdf](4.%20NLP%20Books/Applied%20Text%20Analysis%20with%20Python-2016.pdf)
 1. [Natural Language Processing with Python-2009.pdf](4.%20NLP%20Books/Natural%20Language%20Processing%20with%20Python-2009.pdf)
@@ -90,9 +94,7 @@
 1. [refresher-probabilities-statistics.pdf](cheatsheets/refresher-probabilities-statistics.pdf)
 1. [super-cheatsheet-machine-learning.pdf](cheatsheets/super-cheatsheet-machine-learning.pdf)
 ## Download Mirrors
-* [Dropbox镜像](https://www.dropbox.com/sh/x25apu3vpxfry3c/AABGDLqTTkMkPuey_boL56dma?dl=0)
-
-* [百度云镜像](https://pan.baidu.com/s/1Hn9Vu2LvTk-WthQhHtdJUA)（提取码:vy3v）
-
+* [Dropbox Link](https://www.dropbox.com/sh/x25apu3vpxfry3c/AABGDLqTTkMkPuey_boL56dma?dl=0)
+* [百度云 Link](https://pan.baidu.com/s/1Hn9Vu2LvTk-WthQhHtdJUA)（提取码:vy3v）
 ## Others
-You are welcome to submit your books by submitting Pull Requests, thx.
+You are welcome to share your books by submitting Pull Requests, thx.

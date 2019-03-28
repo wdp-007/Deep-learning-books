@@ -68,6 +68,7 @@
 1. [Natural Language Processing with Python.pdf](4.%20NLP%20Books/Natural%20Language%20Processing%20with%20Python.pdf)
 1. [Natural Language Processing-2018.pdf](4.%20NLP%20Books/Natural%20Language%20Processing-2018.pdf)
 1. [Natural Language Understanding with Distributed Representation-2017.pdf](4.%20NLP%20Books/Natural%20Language%20Understanding%20with%20Distributed%20Representation-2017.pdf)
+1. [Neural Transfer Learning for Natural Language Processing-Sebastian Ruder-2019.pdf](4.%20NLP%20Books/Neural%20Transfer%20Learning%20for%20Natural%20Language%20Processing-Sebastian%20Ruder-2019.pdf)
 1. [NLTK Essentials-2015.pdf](4.%20NLP%20Books/NLTK%20Essentials-2015.pdf)
 1. [oxford-cs-deepnlp-2017](4.%20NLP%20Books/oxford-cs-deepnlp-2017)
 1. [Text Analytics with Python A Practical Real-World Approach to Gaining Actionable Insights from your Data-2016.pdf](4.%20NLP%20Books/Text%20Analytics%20with%20Python%20A%20Practical%20Real-World%20Approach%20to%20Gaining%20Actionable%20Insights%20from%20your%20Data-2016.pdf)
@@ -97,4 +98,5 @@
 * [Dropbox Link](https://www.dropbox.com/sh/x25apu3vpxfry3c/AABGDLqTTkMkPuey_boL56dma?dl=0)
 * [百度云 Link](https://pan.baidu.com/s/1Hn9Vu2LvTk-WthQhHtdJUA)（提取码:vy3v）
 ## Others
-You are welcome to share your books by submitting Pull Requests, thx.
+* You are welcome to share your books by submitting Pull Requests, thx.
+* 欢迎你以GitHub Pull Request或Issue形式分享你收集的书籍/学习资料​ :stuck_out_tongue_winking_eye:

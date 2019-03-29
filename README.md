@@ -42,6 +42,7 @@
 1. [Python Real World Machine Learning - Prateek Joshi-2016.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Python%20Real%20World%20Machine%20Learning%20-%20Prateek%20Joshi-2016.pdf)
 1. [Tensorflow for Deep Learning Research-Stanford CS 20-2018](1.%20Machine%20Leaning%20and%20Deep%20Learning/Tensorflow%20for%20Deep%20Learning%20Research-Stanford%20CS%2020-2018)
 1. [Tensorflow Machine Learning Cookbook-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Tensorflow%20Machine%20Learning%20Cookbook-2017.pdf)
+1. [Tensorflow实战Google深度学习框架-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Tensorflow%E5%AE%9E%E6%88%98Google%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6-2017.pdf)
 1. [机器学习(西瓜书)_周志华-中文-2016.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%28%E8%A5%BF%E7%93%9C%E4%B9%A6%29_%E5%91%A8%E5%BF%97%E5%8D%8E-%E4%B8%AD%E6%96%87-2016.pdf)
 ## 2. Python Books
 1. [Learn Python The Hard Way 3rd Edition-2014.pdf](2.%20Python%20Books/Learn%20Python%20The%20Hard%20Way%203rd%20Edition-2014.pdf)
@@ -51,6 +52,7 @@
 1. [Understanding GIL-2010.pdf](2.%20Python%20Books/Understanding%20GIL-2010.pdf)
 ## 3. Math Books
 1. [Introduction to Applied Linear Algebra-2018.pdf](3.%20Math%20Books/Introduction%20to%20Applied%20Linear%20Algebra-2018.pdf)
+1. [Introduction to Linear Algebra-5th edition-2016.pdf](3.%20Math%20Books/Introduction%20to%20Linear%20Algebra-5th%20edition-2016.pdf)
 1. [Mathematics and Computation-2018.pdf](3.%20Math%20Books/Mathematics%20and%20Computation-2018.pdf)
 1. [Mathematics for Machine Learnin-2017.pdf](3.%20Math%20Books/Mathematics%20for%20Machine%20Learnin-2017.pdf)
 1. [Mathematics for machine learning-2017.pdf](3.%20Math%20Books/Mathematics%20for%20machine%20learning-2017.pdf)
@@ -79,6 +81,12 @@
 1. [An Introduction to Deep Reinforcement Learning-2018.pdf](6.%20Reinforcement%20Learning%20Books/An%20Introduction%20to%20Deep%20Reinforcement%20Learning-2018.pdf)
 1. [Dissecting Reinforcement Learning-2016](6.%20Reinforcement%20Learning%20Books/Dissecting%20Reinforcement%20Learning-2016)
 1. [Reinforce Learning-An introduction, 2nd edition-2018.pdf](6.%20Reinforcement%20Learning%20Books/Reinforce%20Learning-An%20introduction%2C%202nd%20edition-2018.pdf)
+## 7. Speech Processing
+1. [Automatic Speech Recognition-解析深度学习语音识别实践-中文-2016.pdf](7.%20Speech%20Processing/Automatic%20Speech%20Recognition-%E8%A7%A3%E6%9E%90%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E5%AE%9E%E8%B7%B5-%E4%B8%AD%E6%96%87-2016.pdf)
+1. [Automatic Speech Recognition_A Deep Learning Approach-2015.pdf](7.%20Speech%20Processing/Automatic%20Speech%20Recognition_A%20Deep%20Learning%20Approach-2015.pdf)
+1. [Spoken Language Processing-2001.pdf](7.%20Speech%20Processing/Spoken%20Language%20Processing-2001.pdf)
+1. [离散时间信号处理_第3版_中文-2015.pdf](7.%20Speech%20Processing/%E7%A6%BB%E6%95%A3%E6%97%B6%E9%97%B4%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86_%E7%AC%AC3%E7%89%88_%E4%B8%AD%E6%96%87-2015.pdf)
+1. [离散时间语音信号处理：原理与应用-中文-2004.pdf](7.%20Speech%20Processing/%E7%A6%BB%E6%95%A3%E6%97%B6%E9%97%B4%E8%AF%AD%E9%9F%B3%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%EF%BC%9A%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8-%E4%B8%AD%E6%96%87-2004.pdf)
 ## cheatsheets
 1. [bokeh-cheatsheet.pdf](cheatsheets/bokeh-cheatsheet.pdf)
 1. [cheatsheet-deep-learning.pdf](cheatsheets/cheatsheet-deep-learning.pdf)

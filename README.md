@@ -59,6 +59,8 @@
 1. [Mathematics for Machine Learning-2019](3.%20Math%20Books/Mathematics%20for%20Machine%20Learning-2019)
 1. [MIT18_657_Mathematics of Machine Learning-2015.pdf](3.%20Math%20Books/MIT18_657_Mathematics%20of%20Machine%20Learning-2015.pdf)
 1. [The Matrix Cookbook-2012.pdf](3.%20Math%20Books/The%20Matrix%20Cookbook-2012.pdf)
+1. [数学分析教程-常庚哲_史济怀-上册-2003.pdf](3.%20Math%20Books/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E6%95%99%E7%A8%8B-%E5%B8%B8%E5%BA%9A%E5%93%B2_%E5%8F%B2%E6%B5%8E%E6%80%80-%E4%B8%8A%E5%86%8C-2003.pdf)
+1. [数学分析教程-常庚哲_史济怀-下册-2003.pdf](3.%20Math%20Books/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E6%95%99%E7%A8%8B-%E5%B8%B8%E5%BA%9A%E5%93%B2_%E5%8F%B2%E6%B5%8E%E6%80%80-%E4%B8%8B%E5%86%8C-2003.pdf)
 1. [贝叶斯网引论-张连文-2006.pdf](3.%20Math%20Books/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BD%91%E5%BC%95%E8%AE%BA-%E5%BC%A0%E8%BF%9E%E6%96%87-2006.pdf)
 1. [高等代数学习指导书.丘维声.上册-2005.pdf](3.%20Math%20Books/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%AF%BC%E4%B9%A6.%E4%B8%98%E7%BB%B4%E5%A3%B0.%E4%B8%8A%E5%86%8C-2005.pdf)
 1. [高等代数学习指导书.丘维声·下册-2009.pdf](3.%20Math%20Books/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%AF%BC%E4%B9%A6.%E4%B8%98%E7%BB%B4%E5%A3%B0%C2%B7%E4%B8%8B%E5%86%8C-2009.pdf)

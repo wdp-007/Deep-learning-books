@@ -44,8 +44,10 @@
 1. [Tensorflow Machine Learning Cookbook-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Tensorflow%20Machine%20Learning%20Cookbook-2017.pdf)
 1. [Tensorflow实战Google深度学习框架-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Tensorflow%E5%AE%9E%E6%88%98Google%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6-2017.pdf)
 1. [机器学习(西瓜书)_周志华-中文-2016.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%28%E8%A5%BF%E7%93%9C%E4%B9%A6%29_%E5%91%A8%E5%BF%97%E5%8D%8E-%E4%B8%AD%E6%96%87-2016.pdf)
+1. [深度学习入门之PyTorch-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E4%B9%8BPyTorch-2017.pdf)
 ## 2. Python Books
 1. [Learn Python The Hard Way 3rd Edition-2014.pdf](2.%20Python%20Books/Learn%20Python%20The%20Hard%20Way%203rd%20Edition-2014.pdf)
+1. [Learning PySpark-2017.pdf](2.%20Python%20Books/Learning%20PySpark-2017.pdf)
 1. [Python Data Analytics-2015.pdf](2.%20Python%20Books/Python%20Data%20Analytics-2015.pdf)
 1. [SciPy and NumPy-2012.pdf](2.%20Python%20Books/SciPy%20and%20NumPy-2012.pdf)
 1. [Scipy Lecture Notes-2015.pdf](2.%20Python%20Books/Scipy%20Lecture%20Notes-2015.pdf)
@@ -59,6 +61,7 @@
 1. [Mathematics for Machine Learning-2019](3.%20Math%20Books/Mathematics%20for%20Machine%20Learning-2019)
 1. [MIT18_657_Mathematics of Machine Learning-2015.pdf](3.%20Math%20Books/MIT18_657_Mathematics%20of%20Machine%20Learning-2015.pdf)
 1. [The Matrix Cookbook-2012.pdf](3.%20Math%20Books/The%20Matrix%20Cookbook-2012.pdf)
+1. [凸优化-中文版-2013.pdf](3.%20Math%20Books/%E5%87%B8%E4%BC%98%E5%8C%96-%E4%B8%AD%E6%96%87%E7%89%88-2013.pdf)
 1. [数学分析教程-常庚哲_史济怀-上册-2003.pdf](3.%20Math%20Books/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E6%95%99%E7%A8%8B-%E5%B8%B8%E5%BA%9A%E5%93%B2_%E5%8F%B2%E6%B5%8E%E6%80%80-%E4%B8%8A%E5%86%8C-2003.pdf)
 1. [数学分析教程-常庚哲_史济怀-下册-2003.pdf](3.%20Math%20Books/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E6%95%99%E7%A8%8B-%E5%B8%B8%E5%BA%9A%E5%93%B2_%E5%8F%B2%E6%B5%8E%E6%80%80-%E4%B8%8B%E5%86%8C-2003.pdf)
 1. [贝叶斯网引论-张连文-2006.pdf](3.%20Math%20Books/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BD%91%E5%BC%95%E8%AE%BA-%E5%BC%A0%E8%BF%9E%E6%96%87-2006.pdf)

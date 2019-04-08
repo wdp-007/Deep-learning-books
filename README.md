@@ -8,6 +8,7 @@
 1. [Deep Learning with Python A Hands-on Introduction-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Deep%20Learning%20with%20Python%20A%20Hands-on%20Introduction-2017.pdf)
 1. [Deep Learning With Python-Develop Deep Learning Models on Theano and TensorFlow Using Keras-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Deep%20Learning%20With%20Python-Develop%20Deep%20Learning%20Models%20on%20Theano%20and%20TensorFlow%20Using%20Keras-2017.pdf)
 1. [Deep Learning with Python-Francois_Chollet-En-2018.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Deep%20Learning%20with%20Python-Francois_Chollet-En-2018.pdf)
+1. [Deep Learning with Python-Francois_Chollet-中文-Python深度学习-2018.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Deep%20Learning%20with%20Python-Francois_Chollet-%E4%B8%AD%E6%96%87-Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-2018.pdf)
 1. [Deep Learning with Tensorflow-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Deep%20Learning%20with%20Tensorflow-2017.pdf)
 1. [Deep Learning-EPFL EE559-2019](1.%20Machine%20Leaning%20and%20Deep%20Learning/Deep%20Learning-EPFL%20EE559-2019)
 1. [Deep Learning-Josh Patterson & Adam Gibson-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Deep%20Learning-Josh%20Patterson%20%26%20Adam%20Gibson-2017.pdf)
@@ -107,9 +108,9 @@
 1. [refresher-algebra-calculus.pdf](cheatsheets/refresher-algebra-calculus.pdf)
 1. [refresher-probabilities-statistics.pdf](cheatsheets/refresher-probabilities-statistics.pdf)
 1. [super-cheatsheet-machine-learning.pdf](cheatsheets/super-cheatsheet-machine-learning.pdf)
-## Download Mirrors
-* [Dropbox Link](https://www.dropbox.com/sh/x25apu3vpxfry3c/AABGDLqTTkMkPuey_boL56dma?dl=0)
-* [百度云 Link](https://pan.baidu.com/s/1Hn9Vu2LvTk-WthQhHtdJUA)（提取码:vy3v）
-## Others
-* You are welcome to share your books by submitting Pull Requests, thx.
-* 欢迎你以GitHub Pull Request或Issue形式分享你收集的书籍/学习资料​ :stuck_out_tongue_winking_eye:
+
+<!--
+    ## Download Mirrors
+    * [Dropbox Link](https://www.dropbox.com/sh/x25apu3vpxfry3c/AABGDLqTTkMkPuey_boL56dma?dl=0)
+    * [百度云 Link](https://pan.baidu.com/s/1Hn9Vu2LvTk-WthQhHtdJUA)（提取码:vy3v）
+-->

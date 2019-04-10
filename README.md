@@ -23,6 +23,7 @@
 1. [Hands on Machine Learning with Scikit Learn and TensorFlow-中文-机器学习实用指南-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow-%E4%B8%AD%E6%96%87-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E7%94%A8%E6%8C%87%E5%8D%97-2017.pdf)
 1. [Introduction to Machine Learning with Python-2016.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Introduction%20to%20Machine%20Learning%20with%20Python-2016.pdf)
 1. [Introduction to Machine Learning-sencond-edition-EN-2010.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Introduction%20to%20Machine%20Learning-sencond-edition-EN-2010.pdf)
+1. [Learning Generative Adversarial Networks-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Learning%20Generative%20Adversarial%20Networks-2017.pdf)
 1. [Learning TensorFlow-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Learning%20TensorFlow-2017.pdf)
 1. [Machine Learning for OpenCV-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Machine%20Learning%20for%20OpenCV-2017.pdf)
 1. [Machine Learning in Action-EN-2012.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Machine%20Learning%20in%20Action-EN-2012.pdf)

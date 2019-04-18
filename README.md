@@ -82,6 +82,7 @@
 1. [oxford-cs-deepnlp-2017](4.%20NLP%20Books/oxford-cs-deepnlp-2017)
 1. [Text Analytics with Python A Practical Real-World Approach to Gaining Actionable Insights from your Data-2016.pdf](4.%20NLP%20Books/Text%20Analytics%20with%20Python%20A%20Practical%20Real-World%20Approach%20to%20Gaining%20Actionable%20Insights%20from%20your%20Data-2016.pdf)
 1. [The Text Mining HandBook-2007.pdf](4.%20NLP%20Books/The%20Text%20Mining%20HandBook-2007.pdf)
+1. [自然语言处理综论-2005.pdf](4.%20NLP%20Books/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%BB%BC%E8%AE%BA-2005.pdf)
 ## 5. Computer Vision (CV) Book
 1. [Learning Image Processing with OpenCV-2015.pdf](5.%20Computer%20Vision%20%28CV%29%20Book/Learning%20Image%20Processing%20with%20OpenCV-2015.pdf)
 ## 6. Reinforcement Learning Books

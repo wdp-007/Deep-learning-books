@@ -1,6 +1,7 @@
 # Books for Machine Learning, Deep Learning, and related topics
 ## 1. Machine Leaning and Deep Learning
 1. [A First Course in Machine Learning-2012.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/A%20First%20Course%20in%20Machine%20Learning-2012.pdf)
+1. [AutoML Machine Learning-Methods, Systems, Challenges-2018.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/AutoML%20Machine%20Learning-Methods%2C%20Systems%2C%20Challenges-2018.pdf)
 1. [Building Machine Learning Systems with Python-2nd Edition-2015.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Building%20Machine%20Learning%20Systems%20with%20Python-2nd%20Edition-2015.pdf)
 1. [Data Mining, Inference, and Prediction-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Data%20Mining%2C%20Inference%2C%20and%20Prediction-2017.pdf)
 1. [Data Science from Scratch- First Principles with Python-2015.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Data%20Science%20from%20Scratch-%20First%20Principles%20with%20Python-2015.pdf)

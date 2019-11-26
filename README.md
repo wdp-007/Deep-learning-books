@@ -59,6 +59,7 @@
 1. [Understanding GIL-2010.pdf](2.%20Python%20Books/Understanding%20GIL-2010.pdf)
 ## 3. Math Books
 1. [An introduction to optimization-4th-edition-2013.pdf](3.%20Math%20Books/An%20introduction%20to%20optimization-4th-edition-2013.pdf)
+1. [Convex Optimization-2009.pdf](3.%20Math%20Books/Convex%20Optimization-2009.pdf)
 1. [Introduction to Applied Linear Algebra-2018.pdf](3.%20Math%20Books/Introduction%20to%20Applied%20Linear%20Algebra-2018.pdf)
 1. [Introduction to Linear Algebra-5th edition-2016.pdf](3.%20Math%20Books/Introduction%20to%20Linear%20Algebra-5th%20edition-2016.pdf)
 1. [Mathematics and Computation-2018.pdf](3.%20Math%20Books/Mathematics%20and%20Computation-2018.pdf)

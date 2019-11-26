@@ -17,6 +17,7 @@
 1. [Deep_Learning-Ian_Goodfellow-中文-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Deep_Learning-Ian_Goodfellow-%E4%B8%AD%E6%96%87-2017.pdf)
 1. [Deep_Learning-台大李宏毅-En-2016.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Deep_Learning-%E5%8F%B0%E5%A4%A7%E6%9D%8E%E5%AE%8F%E6%AF%85-En-2016.pdf)
 1. [Designing Machine Learning Systems with Python-2016.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Designing%20Machine%20Learning%20Systems%20with%20Python-2016.pdf)
+1. [Elements of Statistical Learning-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Elements%20of%20Statistical%20Learning-2017.pdf)
 1. [Foundations of Data Science-2018.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Foundations%20of%20Data%20Science-2018.pdf)
 1. [Fundamentals of Deep Learning-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Fundamentals%20of%20Deep%20Learning-2017.pdf)
 1. [Gaussian Processes for Machine Learning-2006.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Gaussian%20Processes%20for%20Machine%20Learning-2006.pdf)
@@ -57,6 +58,7 @@
 1. [Scipy Lecture Notes-2015.pdf](2.%20Python%20Books/Scipy%20Lecture%20Notes-2015.pdf)
 1. [Understanding GIL-2010.pdf](2.%20Python%20Books/Understanding%20GIL-2010.pdf)
 ## 3. Math Books
+1. [An introduction to optimization-4th-edition-2013.pdf](3.%20Math%20Books/An%20introduction%20to%20optimization-4th-edition-2013.pdf)
 1. [Introduction to Applied Linear Algebra-2018.pdf](3.%20Math%20Books/Introduction%20to%20Applied%20Linear%20Algebra-2018.pdf)
 1. [Introduction to Linear Algebra-5th edition-2016.pdf](3.%20Math%20Books/Introduction%20to%20Linear%20Algebra-5th%20edition-2016.pdf)
 1. [Mathematics and Computation-2018.pdf](3.%20Math%20Books/Mathematics%20and%20Computation-2018.pdf)
@@ -68,6 +70,7 @@
 1. [凸优化-中文版-2013.pdf](3.%20Math%20Books/%E5%87%B8%E4%BC%98%E5%8C%96-%E4%B8%AD%E6%96%87%E7%89%88-2013.pdf)
 1. [数学分析教程-常庚哲_史济怀-上册-2003.pdf](3.%20Math%20Books/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E6%95%99%E7%A8%8B-%E5%B8%B8%E5%BA%9A%E5%93%B2_%E5%8F%B2%E6%B5%8E%E6%80%80-%E4%B8%8A%E5%86%8C-2003.pdf)
 1. [数学分析教程-常庚哲_史济怀-下册-2003.pdf](3.%20Math%20Books/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E6%95%99%E7%A8%8B-%E5%B8%B8%E5%BA%9A%E5%93%B2_%E5%8F%B2%E6%B5%8E%E6%80%80-%E4%B8%8B%E5%86%8C-2003.pdf)
+1. [最优化导论-第四版-2015.pdf](3.%20Math%20Books/%E6%9C%80%E4%BC%98%E5%8C%96%E5%AF%BC%E8%AE%BA-%E7%AC%AC%E5%9B%9B%E7%89%88-2015.pdf)
 1. [贝叶斯网引论-张连文-2006.pdf](3.%20Math%20Books/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BD%91%E5%BC%95%E8%AE%BA-%E5%BC%A0%E8%BF%9E%E6%96%87-2006.pdf)
 1. [高等代数学习指导书.丘维声.上册-2005.pdf](3.%20Math%20Books/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%AF%BC%E4%B9%A6.%E4%B8%98%E7%BB%B4%E5%A3%B0.%E4%B8%8A%E5%86%8C-2005.pdf)
 1. [高等代数学习指导书.丘维声·下册-2009.pdf](3.%20Math%20Books/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%AF%BC%E4%B9%A6.%E4%B8%98%E7%BB%B4%E5%A3%B0%C2%B7%E4%B8%8B%E5%86%8C-2009.pdf)
